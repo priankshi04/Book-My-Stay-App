@@ -20,7 +20,7 @@
  * The goal is to establish a clear and predictable
  * application startup point.
  *
- * @author Developer
+ * @author Priankshi
  * @version 1.0
  */
 
