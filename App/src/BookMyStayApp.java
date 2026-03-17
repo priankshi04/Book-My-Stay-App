@@ -13,7 +13,8 @@
  * Availability is represented using
  * simple variables to highlight limitations.
  *
- * @version 2.1
+ * @author Priankshi
+ * @version 2.0
  */
 public class UseCase2RoomInitialization {
 
